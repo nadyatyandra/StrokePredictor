@@ -1,1 +1,2 @@
-# StrokePredictor
+# Stroke Predictor
+Stroke Predictor is a machine learning application that could predict whether a person would have a stroke or not. Some inputs retrieved from the user such as gender, age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI (Body Mass Index), and smoking status. The user could normalize the input variable, make a prediction, show correlation, and show plotting between age, average glucose level, and stroke prediction. This project is created as a final project in the Machine Learning course. The explanation of the project can be accessed from this link https://nadyatyandra.notion.site/Stroke-Predictor-b86b601ccd99416b8b10a16d977e1717.
