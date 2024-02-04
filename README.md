@@ -7,5 +7,6 @@ Stroke Predictor is a machine learning application that could predict whether a 
 <img width="329" alt="9 plot" src="https://user-images.githubusercontent.com/84224607/176417917-7a791d78-a4dd-4b9a-a0df-8e68203810c5.png">
 
 ## Contributors
+- [Nadya Tyandra](https://www.linkedin.com/in/nadyatyandra/) - Machine Learning Engineer
 - [Randy Antonio](https://www.linkedin.com/in/randy-antonio/) - Machine Learning Engineer
 - [Tiffany Angela Indryani](https://www.linkedin.com/in/tiffanyangelaindryani/) - Machine Learning Engineer
